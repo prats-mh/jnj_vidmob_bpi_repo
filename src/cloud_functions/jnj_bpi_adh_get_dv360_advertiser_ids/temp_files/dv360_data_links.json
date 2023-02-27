@@ -1,0 +1,586 @@
+[
+    {
+        "adsDataCustomerId": "170963556",
+        "partner_ids": [
+            {
+                "value": "724964"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "326774159",
+        "partner_ids": [
+            {
+                "value": "1214361"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "997927876",
+        "partner_ids": [
+            {
+                "value": "2939035"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "881103564",
+        "partner_ids": [
+            {
+                "value": "4648631"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "762323063",
+        "partner_ids": [
+            {
+                "value": "629509641"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "167013137",
+        "partner_ids": [
+            {
+                "value": "637121411"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "766269764",
+        "partner_ids": [
+            {
+                "value": "638437606"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "551052504",
+        "partner_ids": [
+            {
+                "value": "643158126"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "340725646",
+        "partner_ids": [
+            {
+                "value": "658319462"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "184248705",
+        "partner_ids": [
+            {
+                "value": "1104915102"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "368073433",
+        "advertiser_ids": [
+            {
+                "value": "931136"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "831401268",
+        "advertiser_ids": [
+            {
+                "value": "931138"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "203480428",
+        "advertiser_ids": [
+            {
+                "value": "979835"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "732986745",
+        "advertiser_ids": [
+            {
+                "value": "1213433"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "484150745",
+        "advertiser_ids": [
+            {
+                "value": "2166335"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "514740827",
+        "advertiser_ids": [
+            {
+                "value": "2230439"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "444900982",
+        "advertiser_ids": [
+            {
+                "value": "2330533"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "776403344",
+        "advertiser_ids": [
+            {
+                "value": "2330535"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "771516419",
+        "advertiser_ids": [
+            {
+                "value": "2330536"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "357181302",
+        "advertiser_ids": [
+            {
+                "value": "2470135"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "491278532",
+        "advertiser_ids": [
+            {
+                "value": "2491831"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "632367442",
+        "advertiser_ids": [
+            {
+                "value": "2495147"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "468922262",
+        "advertiser_ids": [
+            {
+                "value": "2602236"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "208673116",
+        "advertiser_ids": [
+            {
+                "value": "5398331"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "603592869",
+        "advertiser_ids": [
+            {
+                "value": "5436732"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "811977811",
+        "advertiser_ids": [
+            {
+                "value": "5803833"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "556007554",
+        "advertiser_ids": [
+            {
+                "value": "573273572"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "369657014",
+        "advertiser_ids": [
+            {
+                "value": "586816765"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "905200889",
+        "advertiser_ids": [
+            {
+                "value": "594629955"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "890487454",
+        "advertiser_ids": [
+            {
+                "value": "606171029"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "915299242",
+        "advertiser_ids": [
+            {
+                "value": "606185669"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "742140734",
+        "advertiser_ids": [
+            {
+                "value": "606191192"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "771127466",
+        "advertiser_ids": [
+            {
+                "value": "606196052"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "109822981",
+        "advertiser_ids": [
+            {
+                "value": "624964499"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "181966521",
+        "advertiser_ids": [
+            {
+                "value": "670118048"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "502275717",
+        "advertiser_ids": [
+            {
+                "value": "713799502"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "483406337",
+        "advertiser_ids": [
+            {
+                "value": "713810367"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "731320172",
+        "advertiser_ids": [
+            {
+                "value": "713811726"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "458883283",
+        "advertiser_ids": [
+            {
+                "value": "718794937"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "243698300",
+        "advertiser_ids": [
+            {
+                "value": "718816311"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "481745046",
+        "advertiser_ids": [
+            {
+                "value": "729329705"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "190318195",
+        "advertiser_ids": [
+            {
+                "value": "729767665"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "106849436",
+        "advertiser_ids": [
+            {
+                "value": "729772285"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "222526014",
+        "advertiser_ids": [
+            {
+                "value": "729783012"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "967500752",
+        "advertiser_ids": [
+            {
+                "value": "729844040"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "464688002",
+        "advertiser_ids": [
+            {
+                "value": "730186966"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "188591361",
+        "advertiser_ids": [
+            {
+                "value": "730197573"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "489214229",
+        "advertiser_ids": [
+            {
+                "value": "730200141"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "538965487",
+        "advertiser_ids": [
+            {
+                "value": "730256369"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "971395452",
+        "advertiser_ids": [
+            {
+                "value": "736408755"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "301925850",
+        "advertiser_ids": [
+            {
+                "value": "752308270"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "596754778",
+        "advertiser_ids": [
+            {
+                "value": "752326260"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "880280945",
+        "advertiser_ids": [
+            {
+                "value": "752390615"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "719089520",
+        "advertiser_ids": [
+            {
+                "value": "752395802"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "118813388",
+        "advertiser_ids": [
+            {
+                "value": "769468942"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "610558196",
+        "advertiser_ids": [
+            {
+                "value": "771415341"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "538016695",
+        "advertiser_ids": [
+            {
+                "value": "771844509"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "638218466",
+        "advertiser_ids": [
+            {
+                "value": "771846700"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "193271512",
+        "advertiser_ids": [
+            {
+                "value": "771849589"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "417854774",
+        "advertiser_ids": [
+            {
+                "value": "772167520"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "656666741",
+        "advertiser_ids": [
+            {
+                "value": "772178556"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "710536198",
+        "advertiser_ids": [
+            {
+                "value": "777835356"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "195439308",
+        "advertiser_ids": [
+            {
+                "value": "777836877"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "411877346",
+        "advertiser_ids": [
+            {
+                "value": "777844962"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "595838155",
+        "advertiser_ids": [
+            {
+                "value": "783193646"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "653456004",
+        "advertiser_ids": [
+            {
+                "value": "788266924"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "868693850",
+        "advertiser_ids": [
+            {
+                "value": "967390944"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "640189089",
+        "advertiser_ids": [
+            {
+                "value": "1089474379"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "902416359",
+        "partner_ids": [
+            {
+                "value": "586846240"
+            },
+            {
+                "value": "630775374"
+            }
+        ]
+    },
+    {
+        "adsDataCustomerId": "902416359",
+        "advertiser_ids": [
+            {
+                "value": "589172366"
+            },
+            {
+                "value": "589798950"
+            },
+            {
+                "value": "589804063"
+            },
+            {
+                "value": "589835986"
+            },
+            {
+                "value": "589837852"
+            },
+            {
+                "value": "589866224"
+            },
+            {
+                "value": "589867628"
+            },
+            {
+                "value": "682484580"
+            }
+        ]
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "adsDataCustomerId": "170963556",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_170963556"
+    },
+    {
+        "adsDataCustomerId": "326774159",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_326774159"
+    },
+    {
+        "adsDataCustomerId": "997927876",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_997927876"
+    },
+    {
+        "adsDataCustomerId": "881103564",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_881103564"
+    },
+    {
+        "adsDataCustomerId": "762323063",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_762323063"
+    },
+    {
+        "adsDataCustomerId": "167013137",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_167013137"
+    },
+    {
+        "adsDataCustomerId": "766269764",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_766269764"
+    },
+    {
+        "adsDataCustomerId": "551052504",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_551052504"
+    },
+    {
+        "adsDataCustomerId": "340725646",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_340725646"
+    },
+    {
+        "adsDataCustomerId": "184248705",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_184248705"
+    },
+    {
+        "adsDataCustomerId": "368073433",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_368073433"
+    },
+    {
+        "adsDataCustomerId": "831401268",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_831401268"
+    },
+    {
+        "adsDataCustomerId": "203480428",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_203480428"
+    },
+    {
+        "adsDataCustomerId": "732986745",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_732986745"
+    },
+    {
+        "adsDataCustomerId": "484150745",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_484150745"
+    },
+    {
+        "adsDataCustomerId": "514740827",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_514740827"
+    },
+    {
+        "adsDataCustomerId": "444900982",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_444900982"
+    },
+    {
+        "adsDataCustomerId": "776403344",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_776403344"
+    },
+    {
+        "adsDataCustomerId": "771516419",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_771516419"
+    },
+    {
+        "adsDataCustomerId": "357181302",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_357181302"
+    },
+    {
+        "adsDataCustomerId": "491278532",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_491278532"
+    },
+    {
+        "adsDataCustomerId": "632367442",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_632367442"
+    },
+    {
+        "adsDataCustomerId": "468922262",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_468922262"
+    },
+    {
+        "adsDataCustomerId": "208673116",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_208673116"
+    },
+    {
+        "adsDataCustomerId": "603592869",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_603592869"
+    },
+    {
+        "adsDataCustomerId": "811977811",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_811977811"
+    },
+    {
+        "adsDataCustomerId": "556007554",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_556007554"
+    },
+    {
+        "adsDataCustomerId": "369657014",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_369657014"
+    },
+    {
+        "adsDataCustomerId": "905200889",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_905200889"
+    },
+    {
+        "adsDataCustomerId": "890487454",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_890487454"
+    },
+    {
+        "adsDataCustomerId": "915299242",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_915299242"
+    },
+    {
+        "adsDataCustomerId": "742140734",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_742140734"
+    },
+    {
+        "adsDataCustomerId": "771127466",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_771127466"
+    },
+    {
+        "adsDataCustomerId": "109822981",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_109822981"
+    },
+    {
+        "adsDataCustomerId": "181966521",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_181966521"
+    },
+    {
+        "adsDataCustomerId": "502275717",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_502275717"
+    },
+    {
+        "adsDataCustomerId": "483406337",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_483406337"
+    },
+    {
+        "adsDataCustomerId": "731320172",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_731320172"
+    },
+    {
+        "adsDataCustomerId": "458883283",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_458883283"
+    },
+    {
+        "adsDataCustomerId": "243698300",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_243698300"
+    },
+    {
+        "adsDataCustomerId": "481745046",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_481745046"
+    },
+    {
+        "adsDataCustomerId": "190318195",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_190318195"
+    },
+    {
+        "adsDataCustomerId": "106849436",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_106849436"
+    },
+    {
+        "adsDataCustomerId": "222526014",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_222526014"
+    },
+    {
+        "adsDataCustomerId": "967500752",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_967500752"
+    },
+    {
+        "adsDataCustomerId": "464688002",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_464688002"
+    },
+    {
+        "adsDataCustomerId": "188591361",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_188591361"
+    },
+    {
+        "adsDataCustomerId": "489214229",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_489214229"
+    },
+    {
+        "adsDataCustomerId": "538965487",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_538965487"
+    },
+    {
+        "adsDataCustomerId": "971395452",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_971395452"
+    },
+    {
+        "adsDataCustomerId": "301925850",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_301925850"
+    },
+    {
+        "adsDataCustomerId": "596754778",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_596754778"
+    },
+    {
+        "adsDataCustomerId": "880280945",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_880280945"
+    },
+    {
+        "adsDataCustomerId": "719089520",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_719089520"
+    },
+    {
+        "adsDataCustomerId": "118813388",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_118813388"
+    },
+    {
+        "adsDataCustomerId": "610558196",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_610558196"
+    },
+    {
+        "adsDataCustomerId": "538016695",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_538016695"
+    },
+    {
+        "adsDataCustomerId": "638218466",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_638218466"
+    },
+    {
+        "adsDataCustomerId": "193271512",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_193271512"
+    },
+    {
+        "adsDataCustomerId": "417854774",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_417854774"
+    },
+    {
+        "adsDataCustomerId": "656666741",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_656666741"
+    },
+    {
+        "adsDataCustomerId": "710536198",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_710536198"
+    },
+    {
+        "adsDataCustomerId": "195439308",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_195439308"
+    },
+    {
+        "adsDataCustomerId": "411877346",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_411877346"
+    },
+    {
+        "adsDataCustomerId": "595838155",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_595838155"
+    },
+    {
+        "adsDataCustomerId": "653456004",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_653456004"
+    },
+    {
+        "adsDataCustomerId": "868693850",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_868693850"
+    },
+    {
+        "adsDataCustomerId": "640189089",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_640189089"
+    },
+    {
+        "adsDataCustomerId": "902416359",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_902416359"
+    },
+    {
+        "adsDataCustomerId": "902416359",
+        "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_902416359"
+    }
+]

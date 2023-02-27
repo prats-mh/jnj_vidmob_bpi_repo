@@ -1,0 +1,2266 @@
+[
+    {
+        "name": "operations/b55ddec2888d44288800bdbfa690e02c",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "170963556",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "partner_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "724964"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:43:09.099261Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_170963556"
+        }
+    },
+    {
+        "name": "operations/2eb77467c1ac44c7a4f0f671c2422cca",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "326774159",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "partner_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "1214361"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:43:10.743356Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_326774159"
+        }
+    },
+    {
+        "name": "operations/61d4e6c19f4b470ea9fda27d8c50b402",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "997927876",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "partner_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "2939035"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:43:12.331557Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_997927876"
+        }
+    },
+    {
+        "name": "operations/67b3ac727b044aea8d0c8fcda8d187e8",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "881103564",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "partner_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "4648631"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:43:14.197615Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_881103564"
+        }
+    },
+    {
+        "name": "operations/0b3a0c05acb2413585631a601c4d7a22",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "762323063",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "partner_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "629509641"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:43:16.181940Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_762323063"
+        }
+    },
+    {
+        "name": "operations/0caf45933f5a459ea47a131e62653dfd",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "167013137",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "partner_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "637121411"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:43:18.277889Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_167013137"
+        }
+    },
+    {
+        "name": "operations/d63349c236f84dc19c3bb8082bce0a39",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "766269764",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "partner_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "638437606"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:43:20.167528Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_766269764"
+        }
+    },
+    {
+        "name": "operations/b096cc037b294ded9865cdec9efc24eb",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "551052504",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "partner_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "643158126"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:43:22.099648Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_551052504"
+        }
+    },
+    {
+        "name": "operations/5916defafe49481a834d9095adf43744",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "340725646",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "partner_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "658319462"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:43:43.015725Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_340725646"
+        }
+    },
+    {
+        "name": "operations/5c2f26c2a8be41319d1316419a1935d6",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "184248705",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "partner_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "1104915102"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:43:44.741343Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_184248705"
+        }
+    },
+    {
+        "name": "operations/0e17e8c4f6cf4037877ee30ec42cc91e",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "368073433",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "931136"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:05.524814Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_368073433"
+        }
+    },
+    {
+        "name": "operations/142b6c80b78948e3883b702b9696e8e7",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "831401268",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "931138"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:06.558692Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_831401268"
+        }
+    },
+    {
+        "name": "operations/63577683e72b4c298ab5310e984b1758",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "203480428",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "979835"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:08.527763Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_203480428"
+        }
+    },
+    {
+        "name": "operations/820bb63eb1f74a44abcfcf4a037f8633",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "732986745",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "1213433"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:10.654293Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_732986745"
+        }
+    },
+    {
+        "name": "operations/b6b5e225511e47c5bd5c094249c1b5c5",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "484150745",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "2166335"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:12.535618Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_484150745"
+        }
+    },
+    {
+        "name": "operations/017a43a4fce345eaa571ac19d2044d71",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "514740827",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "2230439"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:14.289395Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_514740827"
+        }
+    },
+    {
+        "name": "operations/11adb55d26b549f185347fe6d6f65fec",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "444900982",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "2330533"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:15.097352Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_444900982"
+        }
+    },
+    {
+        "name": "operations/2dcff4caa2cb4bbd87613bf22f074d5a",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "776403344",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "2330535"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:16.922446Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_776403344"
+        }
+    },
+    {
+        "name": "operations/070dc9bc7e9745a2b4e46cbbf228e8c7",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "771516419",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "2330536"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:18.674251Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_771516419"
+        }
+    },
+    {
+        "name": "operations/2d026248eb6e454f825747d0745076e3",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "357181302",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "2470135"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:20.335912Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_357181302"
+        }
+    },
+    {
+        "name": "operations/01b70be3455b41ffb0e14995b8c7eb6c",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "491278532",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "2491831"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:22.310939Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_491278532"
+        }
+    },
+    {
+        "name": "operations/45964f936b9c4b95aa43f8bc5440af5f",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "632367442",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "2495147"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:23.863807Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_632367442"
+        }
+    },
+    {
+        "name": "operations/48c74eb0e3c34e9a929768629cf5f6ac",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "468922262",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "2602236"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:25.650977Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_468922262"
+        }
+    },
+    {
+        "name": "operations/9d915c6501854ff083f5754e5a239e8a",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "208673116",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "5398331"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:27.311595Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_208673116"
+        }
+    },
+    {
+        "name": "operations/36b731199b324847a10d81b458e134ff",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "603592869",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "5436732"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:29.287357Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_603592869"
+        }
+    },
+    {
+        "name": "operations/55f8b53fbc4f478aa17561b1363d6eb0",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "811977811",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "5803833"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:30.924552Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_811977811"
+        }
+    },
+    {
+        "name": "operations/aad7b8fcab94494dab64a3f425b7c1d6",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "556007554",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "573273572"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:32.885463Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_556007554"
+        }
+    },
+    {
+        "name": "operations/742fabe1811c4a7cac8d58057fa6491a",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "369657014",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "586816765"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:53.762926Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_369657014"
+        }
+    },
+    {
+        "name": "operations/1aeee22e71384a4cb7351a537a7dfd5a",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "905200889",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "594629955"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:55.493975Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_905200889"
+        }
+    },
+    {
+        "name": "operations/7455cfdc08be4f69a48e5fa08a3a7ba6",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "890487454",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "606171029"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:57.179305Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_890487454"
+        }
+    },
+    {
+        "name": "operations/9814f498147e41adaf661b31f9cdd186",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "915299242",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "606185669"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:57.888262Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_915299242"
+        }
+    },
+    {
+        "name": "operations/2bd338848cb340aaa3787c2ec4728420",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "742140734",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "606191192"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:44:58.813430Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_742140734"
+        }
+    },
+    {
+        "name": "operations/80e97266126b44eb9194fb0400e037b0",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "771127466",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "606196052"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:45:01.463960Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_771127466"
+        }
+    },
+    {
+        "name": "operations/2cbb996ff18f4412b69a02c417705c9c",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "109822981",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "624964499"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:45:03.180451Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_109822981"
+        }
+    },
+    {
+        "name": "operations/706fd60ccd0e4daf9754064de7f663aa",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "181966521",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "670118048"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:45:04.857671Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_181966521"
+        }
+    },
+    {
+        "name": "operations/6a66cdfb1b2a47dba78a9c4522b949d9",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "502275717",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "713799502"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:45:25.602998Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_502275717"
+        }
+    },
+    {
+        "name": "operations/1f3b94ee35a44bceb212c523a36d3866",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "483406337",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "713810367"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:45:27.170703Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_483406337"
+        }
+    },
+    {
+        "name": "operations/a9adb678345d48528012ce2def271b47",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "731320172",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "713811726"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:45:28.661071Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_731320172"
+        }
+    },
+    {
+        "name": "operations/787cbe29cd6d4faf94576961483d0504",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "458883283",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "718794937"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:45:29.445120Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_458883283"
+        }
+    },
+    {
+        "name": "operations/0c81ec745356474e9e00d204dfb2a9ac",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "243698300",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "718816311"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:45:50.232321Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_243698300"
+        }
+    },
+    {
+        "name": "operations/fb532268241f45a6bdafe765edb3454e",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "481745046",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "729329705"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:45:51.777342Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_481745046"
+        }
+    },
+    {
+        "name": "operations/d5660432aa284214963282de419a49b6",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "190318195",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "729767665"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:45:53.750134Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_190318195"
+        }
+    },
+    {
+        "name": "operations/5758bd1960864589a9d6fdd2fde43cba",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "106849436",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "729772285"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:45:55.376527Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_106849436"
+        }
+    },
+    {
+        "name": "operations/4e67e0c7af5e4c0e94ffa4e6e930ac7f",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "222526014",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "729783012"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:45:57.076146Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_222526014"
+        }
+    },
+    {
+        "name": "operations/13fe490a2ba04331860f94157bdc607b",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "967500752",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "729844040"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:45:58.800335Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_967500752"
+        }
+    },
+    {
+        "name": "operations/d3a1f534414642fda67292a263a9caf2",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "464688002",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "730186966"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:00.465644Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_464688002"
+        }
+    },
+    {
+        "name": "operations/dfe607a473c54f769f64fd3dcf455a01",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "188591361",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "730197573"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:02.343564Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_188591361"
+        }
+    },
+    {
+        "name": "operations/1784e09fbf8b496397e6bc8cbe031ba9",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "489214229",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "730200141"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:04.330070Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_489214229"
+        }
+    },
+    {
+        "name": "operations/670076907842469092fce7cbdaa3749b",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "538965487",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "730256369"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:06.041949Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_538965487"
+        }
+    },
+    {
+        "name": "operations/926c120b08e2403d9a2163f0ec37f8a9",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "971395452",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "736408755"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:07.946943Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_971395452"
+        }
+    },
+    {
+        "name": "operations/e8bbd6287f5d40f1a5af6295b36ea439",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "301925850",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "752308270"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:08.593464Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_301925850"
+        }
+    },
+    {
+        "name": "operations/15af84ee9a084072b8ad7eb30840cb44",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "596754778",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "752326260"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:16.576507Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_596754778"
+        }
+    },
+    {
+        "name": "operations/5450f578de0e4d81b2e3be7245e83e21",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "880280945",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "752390615"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:18.448300Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_880280945"
+        }
+    },
+    {
+        "name": "operations/d9e18465450c4b74b6aad49f6de7ef77",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "719089520",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "752395802"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:20.157899Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_719089520"
+        }
+    },
+    {
+        "name": "operations/d036a2ef4fc54211870e63972dc26be1",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "118813388",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "769468942"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:21.178634Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_118813388"
+        }
+    },
+    {
+        "name": "operations/af3952e615a34b6381a4f449ac01175a",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "610558196",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "771415341"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:23.012629Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_610558196"
+        }
+    },
+    {
+        "name": "operations/de418b6d481a426e9e76c1efacc4ecc6",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "538016695",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "771844509"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:24.750065Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_538016695"
+        }
+    },
+    {
+        "name": "operations/02388a2bfb9c4627b3fd6847e99a4860",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "638218466",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "771846700"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:26.337037Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_638218466"
+        }
+    },
+    {
+        "name": "operations/61372b4b76134b51ba9f4527198042ef",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "193271512",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "771849589"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:27.132168Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_193271512"
+        }
+    },
+    {
+        "name": "operations/8fcdba6c305c4c17bd6fc94d4caa9547",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "417854774",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "772167520"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:28.805473Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_417854774"
+        }
+    },
+    {
+        "name": "operations/41908378f7414392b1cbf80f93b29656",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "656666741",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "772178556"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:30.630582Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_656666741"
+        }
+    },
+    {
+        "name": "operations/cf78e3e3b9ff42f48872c95485003595",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "710536198",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "777835356"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:32.390043Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_710536198"
+        }
+    },
+    {
+        "name": "operations/3ea1de655ef14dca8d48418a4a8ff36c",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "195439308",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "777836877"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:33.912963Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_195439308"
+        }
+    },
+    {
+        "name": "operations/94cb22d485b842b3b78fb6fc3bd00271",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "411877346",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "777844962"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:35.537153Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_411877346"
+        }
+    },
+    {
+        "name": "operations/57e7ed86ecce4812997141e5827e3adf",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "595838155",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "783193646"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:36.277364Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_595838155"
+        }
+    },
+    {
+        "name": "operations/80f33d31ee994ff9904f5b8f77f20a56",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "653456004",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "788266924"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:37.885751Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_653456004"
+        }
+    },
+    {
+        "name": "operations/16332d6eafb444a78636fde9b50c3885",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "868693850",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "967390944"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:38.595540Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_868693850"
+        }
+    },
+    {
+        "name": "operations/9c19b59ba6884e73929b50b497b0effb",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "640189089",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "1089474379"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:40.190406Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_640189089"
+        }
+    },
+    {
+        "name": "operations/5b7a858d7b214a4fae99681096223a40",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "902416359",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "partner_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "586846240"
+                            },
+                            {
+                                "value": "630775374"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:41.844365Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_902416359"
+        }
+    },
+    {
+        "name": "operations/c9b08b82f1c74e6386284fae5224e8fc",
+        "metadata": {
+            "@type": "type.googleapis.com/google.ads.adsdatahub.v1.QueryMetadata",
+            "customerId": "321158513",
+            "adsDataCustomerId": "902416359",
+            "matchDataCustomerId": "321158513",
+            "parameterValues": {
+                "advertiser_ids": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "value": "589172366"
+                            },
+                            {
+                                "value": "589798950"
+                            },
+                            {
+                                "value": "589804063"
+                            },
+                            {
+                                "value": "589835986"
+                            },
+                            {
+                                "value": "589837852"
+                            },
+                            {
+                                "value": "589866224"
+                            },
+                            {
+                                "value": "589867628"
+                            },
+                            {
+                                "value": "682484580"
+                            }
+                        ]
+                    }
+                },
+                "start_date": {
+                    "value": "2022-01-01"
+                },
+                "end_date": {
+                    "value": "2023-01-31"
+                },
+                "time_zone": {
+                    "value": "UTC"
+                }
+            },
+            "startTime": "2023-02-21T08:46:43.579908Z",
+            "endTime": "1970-01-01T00:00:00Z",
+            "destTable": "jjt-consumerdatalake-bigquery.adh_testing_layer.adh_dv360_advertiser_ids_902416359"
+        }
+    }
+]

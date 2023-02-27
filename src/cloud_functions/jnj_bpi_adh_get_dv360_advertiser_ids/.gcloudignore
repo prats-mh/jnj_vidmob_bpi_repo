@@ -1,0 +1,7 @@
+.gcloudignore
+.git
+.gitignore
+README.md
+temp_files/
+pubsub_emulator/
+env/
