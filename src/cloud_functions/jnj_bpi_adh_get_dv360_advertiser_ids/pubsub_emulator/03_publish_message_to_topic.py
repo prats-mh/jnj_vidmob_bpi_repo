@@ -93,13 +93,17 @@ def publish_messages(project_id: str, topic_id: str) -> None:
     # in the form `projects/{project_id}/topics/{topic_id}`
     topic_path = publisher.topic_path(project_id, topic_id)
 
-    for n in range(1, 2):
-        data_str = f"Message number 100"
-        # Data must be a bytestring
-        data = data_str.encode("utf-8")
-        # When you publish a message, the client returns a future.
-        future = publisher.publish(topic_path, data)
-        print(future.result())
+    data_str = "trigger based on cloud scheduler"
+    data = data_str.encode("utf-8")
+    future = publisher.publish(topic_path, data)
+    print(future.result())
+    # for n in range(1, 2):
+    #     data_str = f"Message number 100"
+    #     # Data must be a bytestring
+    #     data = data_str.encode("utf-8")
+    #     # When you publish a message, the client returns a future.
+    #     future = publisher.publish(topic_path, data)
+    #     print(future.result())
 
     print(f"Published messages to {topic_path}.")
     # [END pubsub_quickstart_publisher]

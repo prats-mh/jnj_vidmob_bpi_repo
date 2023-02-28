@@ -1,8 +1,8 @@
-#!/usr/bin/zsh
+#!/bin/zsh
 
 TARGET="get_dv360_advertiser_ids"
-SIGNATURE_TYPE="event"
+SIGNATURE_TYPE="http"
 DEBUG="--debug"
-PORT=8080
+PORT=8081
 
 functions-framework --target="$TARGET" --signature-type="$SIGNATURE_TYPE" "$DEBUG" --port="$PORT"

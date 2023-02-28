@@ -1,11 +1,12 @@
+from config import configurations
 import os
+import functions_framework
 from dotenv import load_dotenv
 
-load_dotenv(dotenv_path="env/.env")
 from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
 
-from config import configurations
+
 from utility_functions import (
     get_dv360_ads_data_links,
     send_start_transient_query_request,
@@ -17,6 +18,9 @@ from utility_functions import (
 )
 import json
 
+load_dotenv(dotenv_path="env/.env")
+# svc_acct_path = "env/jnj_bpi_service_account_key.json"
+# os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = svc_acct_path
 
 SCOPES = [
     "https://www.googleapis.com/auth/adsdatahub",
@@ -40,7 +44,8 @@ adh_service = build(
 )
 
 
-def get_dv360_advertiser_ids(event, context):
+@functions_framework.http
+def get_dv360_advertiser_ids(request):
     dv360_data_links = get_dv360_ads_data_links(adh_service)
     print(dv360_data_links)
     write_json_file("dv360_data_links", dv360_data_links)
@@ -73,3 +78,6 @@ def get_dv360_advertiser_ids(event, context):
 
     send_pubsub_msg(table_lists)  # table_lists
     # write_json_file('pub_res', pub_res)
+
+    print("Function completed")
+    return "it is done!"

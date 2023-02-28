@@ -4,4 +4,4 @@ google-cloud-pubsub
 google-api-python-client
 google-auth
 black
-pylint
+flake8

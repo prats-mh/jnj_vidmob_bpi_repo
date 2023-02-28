@@ -5,3 +5,4 @@ README.md
 temp_files/
 pubsub_emulator/
 env/
+cli_00_deploy_cloud_function.sh
